@@ -1,4 +1,4 @@
-# Welcome to Advanced Deep Learning for Computer Vision Q1 2021
+# Welcome to Advanced Computer Vision with Deep Learning Q1 2021
 
 * Download the soft copy of the slides above.
 * Download the notebooks above
